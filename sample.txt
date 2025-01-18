@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is public data
+=======
+This is public data.
+>>>>>>> ce8a4080725470962f1d22edc9ed91cd2524caca
